@@ -5,6 +5,11 @@
 ⚙️ I'm currently working at [playgeko.com](https://playgeko.com)
 ___
 
+🚀 Notable projects: 
+- [Ctrl+F AI](https://ctrlfai.com/)
+- [GeoGuessd AI](https://geoguessd.ai/)
+___
+
 🧩 Notable open-source contributions: 
 - Adding windows support to [sst/sst](https://github.com/sst/sst/pull/5256)
 - Supporting OpenAPI keys for local supabase assistant AI on [supabase/cli](https://github.com/supabase/cli/pull/2522)
