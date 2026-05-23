@@ -1,11 +1,12 @@
 ## Hi there, I'm Abe
 
-👤 I'm a fractional engineering lead in MENA and I help early-stage startups build foundational platforms, full-stack web solutions, AI integrations, and automated systems. I also like launching personal projects and contributing to open source.
+👤 I'm a fractional engineering lead and I help early-stage startups build foundational platforms, full-stack web solutions, AI integrations, and automated systems. I also like launching personal projects and contributing to open source.
 
-⚙️ I'm currently working at [playgeko.com](https://playgeko.com)
+⚙️ I'm currently consulting & leading enterprises into AI-native organizations at [Vibrana](https://www.vibrana.ai/)
 ___
 
-🚀 Notable projects: 
+🚀 Notable work: 
+- [Playgekō](https://playgeko.com): Fractional Engineering Lead
 - [Ctrl+F AI](https://ctrlfai.com/)
 - [GeoGuessd AI](https://geoguessd.ai/)
 ___
