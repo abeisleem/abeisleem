@@ -12,8 +12,8 @@ ___
 ___
 
 🧩 Notable [open-source contributions](https://github.com/pulls?q=is%3Aclosed+is%3Apr+archived%3Afalse+is%3Apublic+author%3Aabeisleem): 
-- Adding windows support to [sst/sst](https://github.com/sst/sst/pull/5256)
-- Supporting OpenAPI keys for local supabase assistant AI on [supabase/cli](https://github.com/supabase/cli/pull/2522)
+- Adding windows support to [anomalyco/sst](https://github.com/anomalyco/sst/pull/5256)
+- Supporting OpenAI keys for local supabase assistant AI on [supabase/cli](https://github.com/supabase/cli/pull/2522)
 - [resend/resend-node](https://github.com/resend/resend-node/pull/513)
 - [clerk/clerk-docs](https://github.com/clerk/clerk-docs/pull/1212)
 ___
