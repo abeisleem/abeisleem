@@ -7,6 +7,9 @@ ___
 
 🚀 Notable work: 
 - [Playgekō](https://playgeko.com): Fractional Engineering Lead
+- [Youmna](https://www.withyoumna.com): Fractional GTM Engineer
+
+🔨 Projects
 - [Ctrl+F AI](https://ctrlfai.com/)
 - [GeoGuessd AI](https://geoguessd.ai/)
 ___
