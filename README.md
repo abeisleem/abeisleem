@@ -10,6 +10,7 @@ ___
 - [Youmna](https://www.withyoumna.com): Fractional GTM Engineer
 
 🔨 Projects
+- [opencode-switchboard](https://www.npmjs.com/package/opencode-switchboard)
 - [Ctrl+F AI](https://ctrlfai.com/)
 - [GeoGuessd AI](https://geoguessd.ai/)
 ___
